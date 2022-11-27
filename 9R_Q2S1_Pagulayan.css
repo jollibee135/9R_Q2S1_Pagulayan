@@ -1,0 +1,10 @@
+body {
+	background-color: blue;
+}
+td {
+	background-color: lightblue;
+}
+tr {
+	text-align: center;
+	font-style: times-new-roman;
+}
